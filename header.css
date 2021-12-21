@@ -1,0 +1,26 @@
+.jumbotron {
+    background-color: green;
+}
+
+.left {
+    left: 12px;
+}
+
+body {
+    background-color: rgb(223, 223, 223)
+}
+
+.navbar {
+    height: 90px;
+}
+
+.kasu {
+    height: 90px;
+    background-color: rgb(36, 39, 43);
+    color: white;
+    border-radius: 0%;
+}
+
+label {
+    size: 23px;
+}
